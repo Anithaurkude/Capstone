@@ -1,0 +1,345 @@
+/content/darknet/data/test_self_annotated_images/India_000082.jpg: Predicted in 32.663000 milli-seconds.
+0: 51%	(left_x:  114   top_y:  531   width:   41   height:   23)
+0: 86%	(left_x:  314   top_y:  493   width:  159   height:   55)
+/content/darknet/data/test_self_annotated_images/India_000211.jpg: Predicted in 32.533000 milli-seconds.
+0: 78%	(left_x:    2   top_y:  514   width:  156   height:  113)
+0: 92%	(left_x:  293   top_y:  528   width:  128   height:   97)
+/content/darknet/data/test_self_annotated_images/India_000246.jpg: Predicted in 32.554000 milli-seconds.
+0: 33%	(left_x:    1   top_y:  543   width:  195   height:  175)
+0: 31%	(left_x:  428   top_y:  547   width:  215   height:  155)
+/content/darknet/data/test_self_annotated_images/India_000380.jpg: Predicted in 32.604000 milli-seconds.
+0: 94%	(left_x:   24   top_y:  423   width:  411   height:  297)
+/content/darknet/data/test_self_annotated_images/India_000386.jpg: Predicted in 32.603000 milli-seconds.
+0: 45%	(left_x:  283   top_y:  567   width:  384   height:  149)
+0: 46%	(left_x:  301   top_y:  479   width:  192   height:  104)
+0: 36%	(left_x:  304   top_y:  480   width:  194   height:  212)
+/content/darknet/data/test_self_annotated_images/India_000587.jpg: Predicted in 28.218000 milli-seconds.
+0: 37%	(left_x:   57   top_y:  484   width:  265   height:  218)
+0: 48%	(left_x:   59   top_y:  612   width:   86   height:   80)
+0: 32%	(left_x:   76   top_y:  628   width:   56   height:   50)
+0: 60%	(left_x:  160   top_y:  425   width:   81   height:   31)
+0: 50%	(left_x:  340   top_y:  425   width:  109   height:   43)
+/content/darknet/data/test_self_annotated_images/India_000664.jpg: Predicted in 27.978000 milli-seconds.
+0: 90%	(left_x:  546   top_y:  492   width:  135   height:  216)
+/content/darknet/data/test_self_annotated_images/India_000671.jpg: Predicted in 28.049000 milli-seconds.
+0: 37%	(left_x:    5   top_y:  482   width:  194   height:  115)
+0: 65%	(left_x:  152   top_y:  484   width:  403   height:  156)
+/content/darknet/data/test_self_annotated_images/India_000672.jpg: Predicted in 27.737000 milli-seconds.
+/content/darknet/data/test_self_annotated_images/India_000674.jpg: Predicted in 22.338000 milli-seconds.
+0: 40%	(left_x:   38   top_y:  434   width:  194   height:  269)
+0: 25%	(left_x:  472   top_y:  360   width:  230   height:  130)
+0: 36%	(left_x:  474   top_y:  346   width:  116   height:  127)
+0: 27%	(left_x:  545   top_y:  434   width:  171   height:  303)
+/content/darknet/data/test_self_annotated_images/India_000723.jpg: Predicted in 22.312000 milli-seconds.
+0: 54%	(left_x:    4   top_y:  486   width:  142   height:   72)
+0: 45%	(left_x:   25   top_y:  515   width:  570   height:  170)
+0: 70%	(left_x:   84   top_y:  491   width:   68   height:   31)
+0: 93%	(left_x:  246   top_y:  555   width:   71   height:   37)
+/content/darknet/data/test_self_annotated_images/India_000838.jpg: Predicted in 22.316000 milli-seconds.
+0: 70%	(left_x:   17   top_y:  516   width:  467   height:  215)
+0: 27%	(left_x:  140   top_y:  507   width:  319   height:  173)
+/content/darknet/data/test_self_annotated_images/India_000906.jpg: Predicted in 22.322000 milli-seconds.
+0: 39%	(left_x:   26   top_y:  551   width:  334   height:  169)
+0: 85%	(left_x:  247   top_y:  464   width:   96   height:   93)
+0: 30%	(left_x:  432   top_y:  484   width:   38   height:  168)
+/content/darknet/data/test_self_annotated_images/India_001226.jpg: Predicted in 22.403000 milli-seconds.
+0: 58%	(left_x:   10   top_y:  527   width:  253   height:  100)
+0: 30%	(left_x:   16   top_y:  554   width:  171   height:   69)
+0: 32%	(left_x:  306   top_y:  513   width:   74   height:   43)
+0: 62%	(left_x:  540   top_y:  557   width:  126   height:  149)
+/content/darknet/data/test_self_annotated_images/India_001255.jpg: Predicted in 22.358000 milli-seconds.
+0: 30%	(left_x:  375   top_y:  523   width:   59   height:  187)
+0: 72%	(left_x:  434   top_y:  568   width:   93   height:  107)
+0: 40%	(left_x:  535   top_y:  649   width:  178   height:   72)
+/content/darknet/data/test_self_annotated_images/India_001280.jpg: Predicted in 22.347000 milli-seconds.
+0: 73%	(left_x:  189   top_y:  649   width:  215   height:   74)
+0: 54%	(left_x:  385   top_y:  533   width:   69   height:   34)
+/content/darknet/data/test_self_annotated_images/India_001329.jpg: Predicted in 22.293000 milli-seconds.
+0: 84%	(left_x:  268   top_y:  523   width:  214   height:   67)
+0: 52%	(left_x:  410   top_y:  489   width:   86   height:   39)
+0: 60%	(left_x:  508   top_y:  482   width:   49   height:   26)
+0: 43%	(left_x:  529   top_y:  516   width:   89   height:   39)
+/content/darknet/data/test_self_annotated_images/India_001382.jpg: Predicted in 22.280000 milli-seconds.
+0: 76%	(left_x:  156   top_y:  499   width:   56   height:   22)
+0: 26%	(left_x:  292   top_y:  492   width:   41   height:   24)
+0: 82%	(left_x:  443   top_y:  511   width:  194   height:  122)
+/content/darknet/data/test_self_annotated_images/India_001600.jpg: Predicted in 22.331000 milli-seconds.
+0: 30%	(left_x:    4   top_y:  462   width:  603   height:  213)
+/content/darknet/data/test_self_annotated_images/India_001632.jpg: Predicted in 22.241000 milli-seconds.
+0: 32%	(left_x:   20   top_y:  482   width:   88   height:   46)
+0: 46%	(left_x:   20   top_y:  439   width:  568   height:  208)
+0: 69%	(left_x:   93   top_y:  463   width:   72   height:   28)
+0: 69%	(left_x:  317   top_y:  479   width:   53   height:   33)
+0: 52%	(left_x:  332   top_y:  453   width:   43   height:   20)
+/content/darknet/data/test_self_annotated_images/India_001654.jpg: Predicted in 20.695000 milli-seconds.
+0: 81%	(left_x:  196   top_y:  474   width:  329   height:  213)
+/content/darknet/data/test_self_annotated_images/India_001688.jpg: Predicted in 20.736000 milli-seconds.
+0: 49%	(left_x:    9   top_y:  630   width:  187   height:   86)
+0: 33%	(left_x:   12   top_y:  464   width:  133   height:  103)
+0: 73%	(left_x:  156   top_y:  528   width:  152   height:   83)
+0: 27%	(left_x:  559   top_y:  529   width:  151   height:  129)
+/content/darknet/data/test_self_annotated_images/India_001801.jpg: Predicted in 20.644000 milli-seconds.
+0: 83%	(left_x:  539   top_y:  516   width:  180   height:   92)
+/content/darknet/data/test_self_annotated_images/India_001875.jpg: Predicted in 20.779000 milli-seconds.
+0: 30%	(left_x:  515   top_y:  576   width:  164   height:   83)
+0: 27%	(left_x:  659   top_y:  573   width:   58   height:   99)
+/content/darknet/data/test_self_annotated_images/India_001882.jpg: Predicted in 20.522000 milli-seconds.
+0: 26%	(left_x:  368   top_y:  486   width:  329   height:  115)
+0: 40%	(left_x:  401   top_y:  573   width:   42   height:   30)
+0: 55%	(left_x:  414   top_y:  491   width:   41   height:   25)
+0: 58%	(left_x:  417   top_y:  462   width:   41   height:   27)
+0: 56%	(left_x:  471   top_y:  459   width:   72   height:   28)
+0: 60%	(left_x:  489   top_y:  492   width:   87   height:   42)
+/content/darknet/data/test_self_annotated_images/India_001920.jpg: Predicted in 20.491000 milli-seconds.
+0: 97%	(left_x:  485   top_y:  477   width:  118   height:   68)
+/content/darknet/data/test_self_annotated_images/India_001940.jpg: Predicted in 20.578000 milli-seconds.
+0: 90%	(left_x:  263   top_y:  542   width:  416   height:  166)
+0: 55%	(left_x:  415   top_y:  521   width:   63   height:   78)
+/content/darknet/data/test_self_annotated_images/India_001976.jpg: Predicted in 20.560000 milli-seconds.
+0: 75%	(left_x:  308   top_y:  618   width:   60   height:   46)
+/content/darknet/data/test_self_annotated_images/India_002147.jpg: Predicted in 20.531000 milli-seconds.
+0: 43%	(left_x:  -46   top_y:  506   width:  692   height:  193)
+0: 88%	(left_x:  314   top_y:  538   width:   66   height:   48)
+0: 71%	(left_x:  371   top_y:  485   width:   46   height:   23)
+0: 47%	(left_x:  402   top_y:  538   width:   55   height:   64)
+0: 47%	(left_x:  405   top_y:  542   width:   42   height:   34)
+/content/darknet/data/test_self_annotated_images/India_002157.jpg: Predicted in 20.474000 milli-seconds.
+/content/darknet/data/test_self_annotated_images/India_002170.jpg: Predicted in 20.489000 milli-seconds.
+0: 50%	(left_x:   -4   top_y:  456   width:  405   height:  171)
+0: 54%	(left_x:  325   top_y:  423   width:  413   height:  123)
+/content/darknet/data/test_self_annotated_images/India_002270.jpg: Predicted in 20.574000 milli-seconds.
+0: 42%	(left_x:  -12   top_y:  414   width:  299   height:  307)
+0: 44%	(left_x:  329   top_y:  505   width:  140   height:   49)
+0: 94%	(left_x:  528   top_y:  581   width:  114   height:   73)
+/content/darknet/data/test_self_annotated_images/India_002277.jpg: Predicted in 20.609000 milli-seconds.
+0: 92%	(left_x:  318   top_y:  558   width:  278   height:  166)
+/content/darknet/data/test_self_annotated_images/India_002377.jpg: Predicted in 20.587000 milli-seconds.
+0: 75%	(left_x:  317   top_y:  607   width:   46   height:   37)
+0: 61%	(left_x:  644   top_y:  593   width:   76   height:   57)
+/content/darknet/data/test_self_annotated_images/India_002414.jpg: Predicted in 20.534000 milli-seconds.
+0: 60%	(left_x:  222   top_y:  487   width:  502   height:  175)
+0: 27%	(left_x:  304   top_y:  453   width:  319   height:  145)
+/content/darknet/data/test_self_annotated_images/India_002425.jpg: Predicted in 20.477000 milli-seconds.
+0: 32%	(left_x:  294   top_y:  433   width:  104   height:   48)
+0: 52%	(left_x:  477   top_y:  460   width:   63   height:  108)
+/content/darknet/data/test_self_annotated_images/India_002440.jpg: Predicted in 20.488000 milli-seconds.
+0: 39%	(left_x:  412   top_y:  527   width:   40   height:  131)
+0: 60%	(left_x:  629   top_y:  610   width:   91   height:   83)
+/content/darknet/data/test_self_annotated_images/India_002513.jpg: Predicted in 20.544000 milli-seconds.
+0: 86%	(left_x:   90   top_y:  350   width:  241   height:  133)
+/content/darknet/data/test_self_annotated_images/India_002627.jpg: Predicted in 20.517000 milli-seconds.
+0: 82%	(left_x:  125   top_y:  384   width:  442   height:  143)
+/content/darknet/data/test_self_annotated_images/India_002635.jpg: Predicted in 20.554000 milli-seconds.
+0: 44%	(left_x:  226   top_y:  594   width:  377   height:  101)
+0: 45%	(left_x:  322   top_y:  611   width:  112   height:   69)
+0: 49%	(left_x:  346   top_y:  620   width:   69   height:   42)
+0: 26%	(left_x:  474   top_y:  627   width:  137   height:   49)
+0: 37%	(left_x:  480   top_y:  462   width:   48   height:   33)
+0: 79%	(left_x:  503   top_y:  540   width:   90   height:   69)
+/content/darknet/data/test_self_annotated_images/India_002738.jpg: Predicted in 20.525000 milli-seconds.
+0: 28%	(left_x:   97   top_y:  566   width:  186   height:  152)
+/content/darknet/data/test_self_annotated_images/India_002779.jpg: Predicted in 20.468000 milli-seconds.
+0: 56%	(left_x:  351   top_y:  521   width:   30   height:   43)
+0: 59%	(left_x:  408   top_y:  390   width:   81   height:  177)
+0: 74%	(left_x:  425   top_y:  395   width:  229   height:  172)
+/content/darknet/data/test_self_annotated_images/India_002814.jpg: Predicted in 20.417000 milli-seconds.
+0: 79%	(left_x:    9   top_y:  531   width:  390   height:  177)
+0: 63%	(left_x:   56   top_y:  521   width:   98   height:   28)
+0: 56%	(left_x:  313   top_y:  503   width:   60   height:   33)
+0: 87%	(left_x:  465   top_y:  509   width:  132   height:  118)
+/content/darknet/data/test_self_annotated_images/India_002876.jpg: Predicted in 20.423000 milli-seconds.
+0: 83%	(left_x:  364   top_y:  487   width:   73   height:   45)
+0: 85%	(left_x:  444   top_y:  538   width:  147   height:  129)
+/content/darknet/data/test_self_annotated_images/India_002977.jpg: Predicted in 20.420000 milli-seconds.
+0: 72%	(left_x:  295   top_y:  426   width:  265   height:  243)
+0: 81%	(left_x:  548   top_y:  494   width:  155   height:  139)
+/content/darknet/data/test_self_annotated_images/India_002982.jpg: Predicted in 20.544000 milli-seconds.
+0: 95%	(left_x:  256   top_y:  483   width:  145   height:   55)
+/content/darknet/data/test_self_annotated_images/India_003005.jpg: Predicted in 20.579000 milli-seconds.
+0: 93%	(left_x:   41   top_y:  427   width:  393   height:  280)
+/content/darknet/data/test_self_annotated_images/India_003026.jpg: Predicted in 20.303000 milli-seconds.
+0: 89%	(left_x:  165   top_y:  548   width:   47   height:   53)
+0: 91%	(left_x:  193   top_y:  470   width:  368   height:  218)
+0: 70%	(left_x:  238   top_y:  499   width:   88   height:  123)
+/content/darknet/data/test_self_annotated_images/India_003038.jpg: Predicted in 20.376000 milli-seconds.
+0: 28%	(left_x:  409   top_y:  582   width:   76   height:   45)
+0: 79%	(left_x:  504   top_y:  600   width:   78   height:   57)
+/content/darknet/data/test_self_annotated_images/India_003089.jpg: Predicted in 20.254000 milli-seconds.
+0: 74%	(left_x:  491   top_y:  574   width:  194   height:  104)
+/content/darknet/data/test_self_annotated_images/India_003167.jpg: Predicted in 20.230000 milli-seconds.
+/content/darknet/data/test_self_annotated_images/India_003204.jpg: Predicted in 20.252000 milli-seconds.
+/content/darknet/data/test_self_annotated_images/India_003210.jpg: Predicted in 20.315000 milli-seconds.
+0: 36%	(left_x:   -1   top_y:  488   width:   93   height:   99)
+0: 89%	(left_x:  197   top_y:  421   width:  259   height:  121)
+0: 77%	(left_x:  436   top_y:  455   width:   32   height:  179)
+/content/darknet/data/test_self_annotated_images/India_003235.jpg: Predicted in 20.293000 milli-seconds.
+0: 27%	(left_x:  479   top_y:  425   width:   30   height:   16)
+/content/darknet/data/test_self_annotated_images/India_003264.jpg: Predicted in 20.306000 milli-seconds.
+0: 52%	(left_x:   -1   top_y:  438   width:  246   height:  143)
+0: 89%	(left_x:  182   top_y:  442   width:  161   height:  184)
+0: 70%	(left_x:  270   top_y:  407   width:  107   height:   50)
+0: 49%	(left_x:  353   top_y:  430   width:   34   height:   21)
+0: 59%	(left_x:  462   top_y:  409   width:   56   height:   22)
+/content/darknet/data/test_self_annotated_images/India_003298.jpg: Predicted in 20.291000 milli-seconds.
+0: 57%	(left_x:  -20   top_y:  457   width:  646   height:  265)
+0: 80%	(left_x:  129   top_y:  481   width:  340   height:  215)
+0: 44%	(left_x:  254   top_y:  507   width:   81   height:  173)
+0: 53%	(left_x:  342   top_y:  468   width:   33   height:   26)
+0: 79%	(left_x:  392   top_y:  471   width:   25   height:   22)
+/content/darknet/data/test_self_annotated_images/India_003322.jpg: Predicted in 20.339000 milli-seconds.
+0: 41%	(left_x:  386   top_y:  563   width:   79   height:   82)
+/content/darknet/data/test_self_annotated_images/India_003423.jpg: Predicted in 20.323000 milli-seconds.
+0: 26%	(left_x:  419   top_y:  625   width:   95   height:   68)
+0: 74%	(left_x:  421   top_y:  545   width:   80   height:   48)
+0: 61%	(left_x:  432   top_y:  632   width:   71   height:   87)
+/content/darknet/data/test_self_annotated_images/India_003534.jpg: Predicted in 20.262000 milli-seconds.
+0: 86%	(left_x:   99   top_y:  421   width:  109   height:   56)
+0: 76%	(left_x:  204   top_y:  474   width:   95   height:   30)
+0: 61%	(left_x:  265   top_y:  422   width:   67   height:   31)
+0: 36%	(left_x:  266   top_y:  406   width:   95   height:   38)
+0: 34%	(left_x:  470   top_y:  442   width:   83   height:   38)
+/content/darknet/data/test_self_annotated_images/India_003559.jpg: Predicted in 20.348000 milli-seconds.
+0: 35%	(left_x:  174   top_y:  548   width:  263   height:  150)
+0: 95%	(left_x:  261   top_y:  584   width:   95   height:   86)
+0: 95%	(left_x:  367   top_y:  479   width:   57   height:   26)
+0: 95%	(left_x:  409   top_y:  582   width:   61   height:   38)
+/content/darknet/data/test_self_annotated_images/India_003590.jpg: Predicted in 20.349000 milli-seconds.
+0: 96%	(left_x:   17   top_y:  422   width:  679   height:  317)
+0: 75%	(left_x:  144   top_y:  370   width:  107   height:   41)
+0: 61%	(left_x:  287   top_y:  356   width:  137   height:   75)
+0: 94%	(left_x:  477   top_y:  376   width:   66   height:   61)
+/content/darknet/data/test_self_annotated_images/India_003600.jpg: Predicted in 20.289000 milli-seconds.
+0: 84%	(left_x:  491   top_y:  446   width:  147   height:  137)
+/content/darknet/data/test_self_annotated_images/India_003799.jpg: Predicted in 20.266000 milli-seconds.
+0: 87%	(left_x:  -14   top_y:  511   width:  417   height:  172)
+0: 79%	(left_x:  441   top_y:  407   width:   34   height:  170)
+/content/darknet/data/test_self_annotated_images/India_003931.jpg: Predicted in 20.293000 milli-seconds.
+/content/darknet/data/test_self_annotated_images/India_003991.jpg: Predicted in 20.288000 milli-seconds.
+0: 33%	(left_x:  398   top_y:  650   width:   40   height:   24)
+/content/darknet/data/test_self_annotated_images/India_004018.jpg: Predicted in 20.285000 milli-seconds.
+0: 91%	(left_x:   14   top_y:  492   width:  465   height:  170)
+0: 48%	(left_x:  270   top_y:  419   width:  208   height:   60)
+/content/darknet/data/test_self_annotated_images/India_004021.jpg: Predicted in 20.283000 milli-seconds.
+0: 73%	(left_x:  219   top_y:  377   width:  402   height:  269)
+/content/darknet/data/test_self_annotated_images/India_004032.jpg: Predicted in 20.271000 milli-seconds.
+0: 85%	(left_x:  473   top_y:  482   width:  136   height:   64)
+/content/darknet/data/test_self_annotated_images/India_004068.jpg: Predicted in 20.228000 milli-seconds.
+0: 40%	(left_x:   -1   top_y:  623   width:   62   height:   56)
+0: 28%	(left_x:   31   top_y:  645   width:  229   height:   76)
+0: 68%	(left_x:  231   top_y:  517   width:  128   height:   43)
+0: 38%	(left_x:  362   top_y:  524   width:  329   height:  137)
+0: 37%	(left_x:  364   top_y:  486   width:   39   height:   35)
+0: 71%	(left_x:  491   top_y:  463   width:   86   height:   32)
+/content/darknet/data/test_self_annotated_images/India_004123.jpg: Predicted in 20.213000 milli-seconds.
+/content/darknet/data/test_self_annotated_images/India_004220.jpg: Predicted in 20.281000 milli-seconds.
+0: 31%	(left_x:   -1   top_y:  644   width:   39   height:   76)
+0: 81%	(left_x:  228   top_y:  487   width:   57   height:   38)
+/content/darknet/data/test_self_annotated_images/India_004271.jpg: Predicted in 20.308000 milli-seconds.
+0: 95%	(left_x:  422   top_y:  637   width:   58   height:   40)
+0: 48%	(left_x:  457   top_y:  596   width:   44   height:   29)
+/content/darknet/data/test_self_annotated_images/India_004303.jpg: Predicted in 20.268000 milli-seconds.
+0: 79%	(left_x:  134   top_y:  511   width:  536   height:  221)
+/content/darknet/data/test_self_annotated_images/India_004305.jpg: Predicted in 20.248000 milli-seconds.
+0: 91%	(left_x:  218   top_y:  476   width:   56   height:   24)
+0: 28%	(left_x:  288   top_y:  469   width:   42   height:   18)
+0: 30%	(left_x:  391   top_y:  482   width:   36   height:  127)
+0: 25%	(left_x:  455   top_y:  464   width:  161   height:  155)
+/content/darknet/data/test_self_annotated_images/India_004347.jpg: Predicted in 20.233000 milli-seconds.
+0: 85%	(left_x:  405   top_y:  466   width:   86   height:   41)
+/content/darknet/data/test_self_annotated_images/India_004488.jpg: Predicted in 20.274000 milli-seconds.
+0: 37%	(left_x:   20   top_y:  446   width:  357   height:  282)
+/content/darknet/data/test_self_annotated_images/India_004648.jpg: Predicted in 20.330000 milli-seconds.
+0: 25%	(left_x:  649   top_y:  600   width:   71   height:  114)
+/content/darknet/data/test_self_annotated_images/India_004681.jpg: Predicted in 20.291000 milli-seconds.
+0: 91%	(left_x:  433   top_y:  568   width:  283   height:  156)
+/content/darknet/data/test_self_annotated_images/India_004737.jpg: Predicted in 20.308000 milli-seconds.
+0: 87%	(left_x:  131   top_y:  403   width:  149   height:  139)
+0: 36%	(left_x:  176   top_y:  408   width:  106   height:  107)
+0: 55%	(left_x:  382   top_y:  480   width:   44   height:   42)
+/content/darknet/data/test_self_annotated_images/India_004786.jpg: Predicted in 20.301000 milli-seconds.
+0: 31%	(left_x:  103   top_y:  492   width:  402   height:  109)
+0: 70%	(left_x:  366   top_y:  450   width:  115   height:   52)
+/content/darknet/data/test_self_annotated_images/India_004811.jpg: Predicted in 20.292000 milli-seconds.
+0: 85%	(left_x:  278   top_y:  583   width:  194   height:   83)
+/content/darknet/data/test_self_annotated_images/India_004930.jpg: Predicted in 20.233000 milli-seconds.
+0: 45%	(left_x:  -18   top_y:  480   width:  633   height:  129)
+/content/darknet/data/test_self_annotated_images/India_004955.jpg: Predicted in 20.332000 milli-seconds.
+0: 39%	(left_x:   59   top_y:  608   width:  276   height:  103)
+0: 35%	(left_x:  145   top_y:  619   width:  168   height:   82)
+0: 60%	(left_x:  211   top_y:  499   width:  115   height:   40)
+0: 54%	(left_x:  221   top_y:  551   width:   99   height:   28)
+0: 88%	(left_x:  244   top_y:  587   width:  201   height:   76)
+0: 39%	(left_x:  361   top_y:  462   width:   36   height:   23)
+/content/darknet/data/test_self_annotated_images/India_004970.jpg: Predicted in 20.280000 milli-seconds.
+0: 42%	(left_x:  366   top_y:  403   width:   73   height:   41)
+0: 67%	(left_x:  419   top_y:  511   width:   62   height:   37)
+0: 40%	(left_x:  420   top_y:  483   width:   60   height:   27)
+0: 81%	(left_x:  509   top_y:  496   width:  123   height:   81)
+/content/darknet/data/test_self_annotated_images/India_005049.jpg: Predicted in 20.326000 milli-seconds.
+0: 73%	(left_x:  249   top_y:  516   width:  109   height:  167)
+0: 89%	(left_x:  328   top_y:  499   width:   50   height:   26)
+/content/darknet/data/test_self_annotated_images/India_005112.jpg: Predicted in 20.295000 milli-seconds.
+0: 88%	(left_x:  575   top_y:  532   width:   86   height:   76)
+/content/darknet/data/test_self_annotated_images/India_005132.jpg: Predicted in 20.262000 milli-seconds.
+0: 80%	(left_x:  211   top_y:  562   width:  505   height:  164)
+/content/darknet/data/test_self_annotated_images/India_005211.jpg: Predicted in 20.256000 milli-seconds.
+0: 94%	(left_x:  210   top_y:  496   width:  314   height:  159)
+/content/darknet/data/test_self_annotated_images/India_005222.jpg: Predicted in 20.223000 milli-seconds.
+/content/darknet/data/test_self_annotated_images/India_005238.jpg: Predicted in 20.304000 milli-seconds.
+0: 32%	(left_x:   23   top_y:  616   width:  249   height:   73)
+/content/darknet/data/test_self_annotated_images/India_005249.jpg: Predicted in 20.354000 milli-seconds.
+0: 30%	(left_x:  329   top_y:  506   width:   50   height:   28)
+/content/darknet/data/test_self_annotated_images/India_005290.jpg: Predicted in 20.377000 milli-seconds.
+0: 96%	(left_x:  359   top_y:  595   width:   77   height:   45)
+/content/darknet/data/test_self_annotated_images/India_005339.jpg: Predicted in 20.312000 milli-seconds.
+0: 92%	(left_x:  243   top_y:  391   width:  160   height:   42)
+/content/darknet/data/test_self_annotated_images/India_005377.jpg: Predicted in 20.324000 milli-seconds.
+0: 34%	(left_x:  128   top_y:  633   width:   94   height:   87)
+0: 94%	(left_x:  179   top_y:  552   width:  128   height:  101)
+0: 74%	(left_x:  315   top_y:  456   width:   78   height:  125)
+0: 40%	(left_x:  336   top_y:  588   width:   38   height:  113)
+0: 63%	(left_x:  373   top_y:  448   width:   47   height:   31)
+/content/darknet/data/test_self_annotated_images/India_005450.jpg: Predicted in 20.266000 milli-seconds.
+0: 62%	(left_x:  399   top_y:  543   width:   63   height:  104)
+0: 75%	(left_x:  484   top_y:  453   width:   79   height:   73)
+/content/darknet/data/test_self_annotated_images/India_005522.jpg: Predicted in 20.239000 milli-seconds.
+0: 93%	(left_x:  487   top_y:  454   width:  125   height:  131)
+/content/darknet/data/test_self_annotated_images/India_005529.jpg: Predicted in 20.250000 milli-seconds.
+0: 56%	(left_x:  297   top_y:  650   width:   58   height:   72)
+0: 72%	(left_x:  363   top_y:  658   width:   75   height:   55)
+0: 49%	(left_x:  628   top_y:  668   width:   89   height:   54)
+/content/darknet/data/test_self_annotated_images/India_005531.jpg: Predicted in 20.312000 milli-seconds.
+0: 95%	(left_x:  240   top_y:  451   width:  450   height:  251)
+/content/darknet/data/test_self_annotated_images/India_005554.jpg: Predicted in 20.306000 milli-seconds.
+0: 30%	(left_x:  335   top_y:  412   width:   69   height:   57)
+0: 92%	(left_x:  386   top_y:  484   width:  105   height:   96)
+/content/darknet/data/test_self_annotated_images/India_005614.jpg: Predicted in 20.302000 milli-seconds.
+0: 68%	(left_x:  321   top_y:  576   width:   88   height:   42)
+/content/darknet/data/test_self_annotated_images/India_005650.jpg: Predicted in 20.335000 milli-seconds.
+0: 45%	(left_x:    4   top_y:  561   width:  123   height:   58)
+0: 28%	(left_x:  250   top_y:  478   width:   64   height:   38)
+0: 68%	(left_x:  412   top_y:  508   width:   53   height:   58)
+0: 30%	(left_x:  435   top_y:  540   width:   59   height:   35)
+0: 95%	(left_x:  487   top_y:  453   width:   49   height:   73)
+0: 48%	(left_x:  527   top_y:  512   width:   93   height:   60)
+/content/darknet/data/test_self_annotated_images/India_005736.jpg: Predicted in 20.403000 milli-seconds.
+0: 65%	(left_x:  450   top_y:  497   width:   78   height:   48)
+0: 66%	(left_x:  496   top_y:  542   width:  187   height:   61)
+0: 50%	(left_x:  520   top_y:  597   width:   93   height:  116)
+/content/darknet/data/test_self_annotated_images/India_005749.jpg: Predicted in 20.534000 milli-seconds.
+/content/darknet/data/test_self_annotated_images/India_005779.jpg: Predicted in 20.538000 milli-seconds.
+0: 74%	(left_x:  103   top_y:  433   width:  203   height:   86)
+0: 97%	(left_x:  397   top_y:  390   width:  116   height:   81)
+0: 28%	(left_x:  460   top_y:  483   width:   48   height:   53)
+0: 74%	(left_x:  462   top_y:  491   width:   40   height:   30)
+0: 60%	(left_x:  517   top_y:  473   width:   49   height:   96)
+/content/darknet/data/test_self_annotated_images/India_005800.jpg: Predicted in 20.554000 milli-seconds.
+0: 42%	(left_x:   26   top_y:  476   width:  156   height:  112)
+/content/darknet/data/test_self_annotated_images/India_005805.jpg: Predicted in 20.585000 milli-seconds.
+0: 44%	(left_x:   -3   top_y:  467   width:  401   height:  248)
+/content/darknet/data/test_self_annotated_images/India_005899.jpg: Predicted in 20.505000 milli-seconds.
+0: 72%	(left_x:  264   top_y:  411   width:  215   height:  317)
+/content/darknet/data/test_self_annotated_images/India_005907.jpg: Predicted in 20.526000 milli-seconds.
+/content/darknet/data/test_self_annotated_images/India_005943.jpg: Predicted in 20.477000 milli-seconds.
+0: 37%	(left_x:  404   top_y:  584   width:   93   height:   46)
+Enter Image Path: 
